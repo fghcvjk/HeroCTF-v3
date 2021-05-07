@@ -1,0 +1,7 @@
+ Social ID #1
+15
+
+Can you find the twitter ID of @HeroCTF.
+
+Format : Hero{twitter_id}
+Author : xanhacks

@@ -1,0 +1,15 @@
+ ProtonDate
+40
+
+Can you retrieve the creation date of this email address, xanhacks@protonmail.com.
+
+Format : Hero{time_stamp} or Hero{YYYY-MM-DD} (example : Hero{2020-03-22})
+Author : xanhacks
+
+Hint
+
+You can convert your date into a unix timestamp (http://timestamp.fr/) UTC+0
+
+Hint
+
+You do not need to send emails or creating a protonmail account to solve this challenge.
